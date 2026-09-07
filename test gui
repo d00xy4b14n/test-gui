@@ -1,4 +1,6 @@
 -- Generated GUI Dump from: ScreenGui (Descendants: 1073)
+-- FIXED: Split into chunks to avoid register limit
+
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "ScreenGui"
 ScreenGui.ResetOnSpawn = false
